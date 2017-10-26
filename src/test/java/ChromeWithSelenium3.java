@@ -13,5 +13,7 @@ public class ChromeWithSelenium3 {
 
         //Open the google.com URL in Chrome
         driver.get("https://google.com");
+
+        System.out.println("We are adding the .gitignore file");
     }
 }
